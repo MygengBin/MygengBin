@@ -12,7 +12,7 @@
 
 - [Front end Check System Theme](./markdown/%E5%89%8D%E7%AB%AF%E5%88%A4%E6%96%AD%E7%B3%BB%E7%BB%9F%E4%B8%BB%E9%A2%98.md)
 
-- [Java script check current language](./markdown/JS判断当前系统语言、浏览器语言)
+- [Java script check current language](./markdown/JS判断当前系统语言、浏览器语言.md)
 
   <!---
   MygengBin/MygengBin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
