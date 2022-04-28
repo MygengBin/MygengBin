@@ -14,6 +14,7 @@
 
 - [Java script check current language](./markdown/JS判断当前系统语言、浏览器语言.md)
 
+- [隐藏electron窗体菜单栏的几种方式](./markdown/隐藏electron窗体菜单栏的几种方式.md)
   <!---
   MygengBin/MygengBin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.
