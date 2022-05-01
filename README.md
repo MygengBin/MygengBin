@@ -16,7 +16,7 @@
 
 - [隐藏electron窗体菜单栏的几种方式](./markdown/隐藏electron窗体菜单栏的几种方式.md)
 
-- [MySQL8.0 创建nodejs支持的用户](./markdown/MySQL8.0 create a nodejs support user.md)
+- [MySQL8.0 创建nodejs支持的用户](./markdown/MySQL8.0_create_a_nodejs_support_user.md)
   <!---
   MygengBin/MygengBin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.
