@@ -17,6 +17,9 @@
 - [隐藏electron窗体菜单栏的几种方式](./markdown/隐藏electron窗体菜单栏的几种方式.md)
 
 - [解决php的URLencode编码时将空格转成+的问题](./markdown/%E8%A7%A3%E5%86%B3php%E7%9A%84URLencode%E7%BC%96%E7%A0%81%E6%97%B6%E5%B0%86%E7%A9%BA%E6%A0%BC%E8%BD%AC%E6%88%90%2B%E7%9A%84%E9%97%AE%E9%A2%98.md)
+
+- [MySQL8.0 创建nodejs支持的用户](./markdown/MySQL8.0_create_a_nodejs_support_user.md)
+
   <!---
   MygengBin/MygengBin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.
