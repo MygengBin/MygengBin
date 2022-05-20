@@ -22,6 +22,8 @@
 
 - [PHP json_encode无输出问题以及处理调试方案](./markdown/PHP%20json_encode%E6%97%A0%E8%BE%93%E5%87%BA%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E5%A4%84%E7%90%86%E8%B0%83%E8%AF%95%E6%96%B9%E6%A1%88.md)
 
+- [PHP上传文件失败总结](./markdown/PHP%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E5%A4%B1%E8%B4%A5%E6%80%BB%E7%BB%93.md)
+
   <!---
   MygengBin/MygengBin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.
