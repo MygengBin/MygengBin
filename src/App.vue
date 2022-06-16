@@ -33,28 +33,32 @@ export default defineComponent({
 
 <style lang="scss">
 @media (prefers-color-scheme: dark) {
-    body {
+  body {
+    &:not(.light){
       background: rgb(53, 54, 58);
       color: rgba(238,238,238,1);
-    }
-    nav{
-    a{
+      h1,h2,h3,h4,h5,h6,p{
         color:white;
-        &.router-link-exact-active {
-          color: gray;
+      }
+      nav{
+        a{
+          color:white;
+          &.router-link-exact-active {
+            color: gray;
+          }
         }
       }
-  }
+    }
+  } 
 }
 
 @media (prefers-color-scheme: light) {
-    body {
+  body{
+    &:not(.dark){
       background: rgb(255,255,255);
       color: rgba(51,51,51,1);
-    }
-    nav {
+      nav {
         a {
-          
           color: #2c3e50;
 
           &.router-link-exact-active {
@@ -62,6 +66,8 @@ export default defineComponent({
           }    
         }
       }
+    }
+  }
 }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
