@@ -1,4 +1,4 @@
-<canvas id="demo" width="500" height="260" style="background:red;"></canvas>
+<canvas id="demo" width="500" height="260" style="{{background:red;}}"></canvas>
 <script type="text/javascript">
 function funload()
 {
