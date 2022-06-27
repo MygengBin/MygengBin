@@ -1,3 +1,9 @@
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mygengbin&show_icons=true&theme=dark" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mygengbin&theme=dark&layout=compact" style="height:200px">
+  </div>
+
 - 👋 Hi, I'm @MygengBin. I'm a boy.
 
 - 👀 I'm interested in Code, front-end and back-end.
@@ -7,6 +13,8 @@
 - 💞️ I'm looking to collaborate on None.
 
 - 📫 How to reach me Java script. learing...
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mygengbin&repo=mygengbin&theme=dark">
 
 - [Nginx CORS](./nginx跨域/README.md)
 
