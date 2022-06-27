@@ -1,7 +1,7 @@
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mygengbin&show_icons=true&theme=dark" height="200">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mygengbin&theme=dark&layout=compact" style="height:200px">
+  <img src="https://github-readme-stats.vercel.app/api?username=mygengbin&show_icons=true&theme=dark" height="137px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mygengbin&theme=dark&layout=compact" height="137px">
   </div>
 
 - 👋 Hi, I'm @MygengBin. I'm a boy.
